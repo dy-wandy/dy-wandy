@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Wandy Olivares
-- 👀 I’m interested in dev-App Multiplataform ...
+- 👋 Hola, yo soy Wandy Olivares
+- 👀 Estoy muy interesado en crear app multiplatforma 
 - 🌱 I’m currently learning News Features...
 - 💞️ I’m looking to collaborate on CloudYa, OliShop and More...
 - 📫 How to reach me dy.wandy@icloud.com...
 
-- ⚡ 
+
 
 <!---
 dy-wandy/dy-wandy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
